@@ -1,0 +1,49 @@
+.header{
+	width: 100%;
+	height: 240px;
+	background-image: url(../img/01.jpg);
+	background-repeat: no-repeat;
+	background-position: 20% 20%;
+	background-size: cover;
+}
+
+.img-rounded{
+	
+}
+body{
+	background-color:#F7F7F7;
+	font-family: "黑体";
+}
+.post{
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.post-header{
+	width: 100%;
+	text-align: center;
+}
+.post-img{
+	width: 100%;
+	overflow: hidden;
+}
+.post-content{
+	margin-top: 20px;
+}
+.list1{
+	width: 100%;
+	height: 300px;
+	background-color: #000000;
+}
+.article11{
+	background-color: white;
+	padding: 20px;
+}
+.side{
+	background: white;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+	opacity: 0.8;
+}
